@@ -1,0 +1,2 @@
+> Projeot Combustível <
+Vamos criar um projeto na qual o usuário irá digitar o preço do etanol e o preço da gasolina; Se o preço do etanol for 70% ou menor que o da gasolina, será mais vantajoso abastecer com ele. Em outros casos, a gasolina será a melhor opção. Para incrementar o nosso projeto, vamos criar um design com três imagens para representar os tipos de combustíveis: Uma imagem para neutro, outra para etanol e outra para gasolina. A imagem será alterada, conforme a vantagem do combustível à abastecer. 
